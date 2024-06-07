@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btnbg {
+  height: 5vh;
+  margin: auto;
+  padding: 0 12px;
+  border-radius: 24px;
+}
