@@ -1,0 +1,14 @@
+.searchField {
+    text-align: center;
+}
+
+#Search {
+    color: azure;
+}
+
+.searchInput {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

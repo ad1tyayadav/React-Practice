@@ -1,0 +1,22 @@
+.Infobox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.cardDet {
+    border: 2px solid black;
+    border-radius: 14px !important;
+    background-color: #6691c96b !important;
+}
+
+.cityName {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    right: -15px;
+}
