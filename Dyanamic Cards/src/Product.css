@@ -1,0 +1,30 @@
+.div {
+    border: 2px solid white;
+    border-radius: 14px;
+    margin: 8px;
+    width: 30vw;
+}
+
+.Products {
+    display: flex;
+}
+
+.Product {
+    border: 4px solid wheat;
+    padding: 14px;
+}
+
+.Price {
+    background-color: rgb(157, 114, 6);
+    display: flex;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    color: aliceblue;
+    font-weight: bolder;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.oldPrice{
+    text-decoration: line-through;
+}
