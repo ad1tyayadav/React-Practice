@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-gradient {
+  background: linear-gradient(
+    to right, 
+    #6366f1 10%, /* indigo-500 at 10% */
+    #107aace7 30%, /* sky-500 at 30% */
+    #350f97d0 90%  /* emerald-500 at 90% */
+  );
+}
+
+.input-sec{
+  background-color: aliceblue !important;
+}
