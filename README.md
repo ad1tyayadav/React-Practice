@@ -24,11 +24,3 @@ To run any project from this repository locally, follow these steps:
     (npm install and npm run dev)
 
 4. **Install Tailwind if you need in project**
-
-Contribution
-If you have any suggestions or improvements, feel free to contribute by opening an issue or submitting a pull request.
-
-Contact
-For any questions or feedback, you can reach out to me:
-
-Email: adityaproworks@gmail.com
